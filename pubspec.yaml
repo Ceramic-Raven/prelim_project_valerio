@@ -1,0 +1,11 @@
+name: my_dart_console_app
+description: A sample Dart console application with Riverpod.
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  riverpod: ^2.0.0
+
+dev_dependencies:
+  lints: ^2.0.0  # For linting
+  test: ^1.20.0  # Add this line for testing
